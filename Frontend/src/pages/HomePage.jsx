@@ -15,7 +15,7 @@ const HomePage = () => {
               <div className="w-3 h-3 rounded-full bg-green-400"></div>
             </div>
             <div className="flex-1 text-center text-gray-500 text-sm">
-              ~/studyhub/welcome.js
+              ~/studyhub/GETOUT.js
             </div>
           </div>
         </div>
