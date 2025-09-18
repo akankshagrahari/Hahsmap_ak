@@ -27,7 +27,7 @@ const HomePage = () => {
             {/* Terminal Prompt */}
             <div className="flex items-center space-x-2">
               <span className="text-blue-600">$</span>
-              <span className="text-gray-700">cd StudyHub</span>
+              <span className="text-gray-700">cd Alweena ka StudyHub</span>
             </div>
             
             <div className="flex items-center space-x-2">
